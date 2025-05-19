@@ -1,1 +1,8 @@
-
+{
+  "name": "Bunny DM Blaster",
+  "version": "1.0.0",
+  "description": "A plugin to send direct messages to users in Bunny",
+  "main": "index.js",
+  "author": "John Doe",
+  "license": "MIT"
+}
